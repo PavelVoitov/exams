@@ -4,6 +4,7 @@ export const String = () => {
     return (
         <div>Strings
         <p>kjbkj333</p>
+            <div></div>
         </div>
 )
 }
