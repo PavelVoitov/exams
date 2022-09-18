@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import {Count} from "./components/Count";
+// import {Count} from "./components/Count";
 import './App.css';
 // import {ButtonForOddEven} from "./components/ButtonForOddEven";
 // import {Selector} from "./components/СolorChange/Selector";
@@ -29,7 +29,7 @@ function App() {
   return (
     <div className="App">
           <h1>Site for exams!</h1>
-        <Count/>
+        {/*<Count/>*/}
         {/*<ButtonForOddEven arrOfNumber={filterNumber} callback={FilterNumber}/>*/}
         {/*<Selector />*/}
     </div>
