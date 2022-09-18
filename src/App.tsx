@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-// import {Count} from "./components/Count";
+import {Count} from "./components/Count";
 import './App.css';
 // import {ButtonForOddEven} from "./components/ButtonForOddEven";
 // import {Selector} from "./components/СolorChange/Selector";
