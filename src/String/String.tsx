@@ -2,6 +2,8 @@ import React from "react";
 
 export const String = () => {
     return (
-        <div>String</div>
+        <div>Strings
+        <p>kjbkj</p>
+        </div>
 )
 }
