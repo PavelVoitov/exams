@@ -5,6 +5,10 @@ export const String = () => {
         <div>Strings
         <p>kjbkj333</p>
             <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
         </div>
 )
 }
