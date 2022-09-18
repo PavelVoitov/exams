@@ -1,8 +1,8 @@
 import React, {useState} from 'react';
 import {Count} from "./components/Count";
 import './App.css';
-import {ButtonForOddEven} from "./components/ButtonForOddEven";
-import {Selector} from "./components/СolorChange/Selector";
+// import {ButtonForOddEven} from "./components/ButtonForOddEven";
+// import {Selector} from "./components/СolorChange/Selector";
 
 const arrOfNumber = [1, 5, 8, 96, 28, 101, 4];
 
@@ -31,8 +31,8 @@ function App() {
     <div className="App">
           <h1>Site for exams!</h1>
         <Count/>
-        <ButtonForOddEven arrOfNumber={filterNumber} callback={FilterNumber}/>
-        <Selector />
+        {/*<ButtonForOddEven arrOfNumber={filterNumber} callback={FilterNumber}/>*/}
+        {/*<Selector />*/}
     </div>
   );
 }
