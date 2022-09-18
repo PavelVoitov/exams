@@ -10,7 +10,6 @@ export type FilterType = 'Odd' | 'Even' | 'All';
 
 function App() {
 
-    // console.log(devArr);
     const [number, setNumber] = useState(arrOfNumber)
 
     const [filter, setFilter] = useState<FilterType>("All");
